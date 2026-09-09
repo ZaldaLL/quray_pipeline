@@ -1,0 +1,47 @@
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints / model weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# Intermediate numpy arrays
+*.npy
+*.npz
+
+# Pipeline runtime output
+pipeline_output/
+figures/
+output/
+ply_out/
+Clustering_Results/
+
+# User-provided datasets
+dataset/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Conda
+conda-env/

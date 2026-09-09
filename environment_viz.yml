@@ -1,0 +1,17 @@
+name: quray-viz
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - scikit-learn>=1.3
+  - open3d>=0.18
+  - pytorch>=2.0
+  - psutil>=5.0
+  - pip
+  - pip:
+    - torchgmm>=0.1.4
