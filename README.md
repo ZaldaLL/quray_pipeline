@@ -12,7 +12,8 @@ acceleration via [torchGMM](https://github.com/jeremymanning/torchgmm) and
 interactive 3D visualisation via Open3D and Plotly.
 
 ---
-
+![example](./vis.png) 
+![example](./vis.png) 
 ## Features
 
 - **GMM-based orientation modelling** — fits 1D GMMs to angular distances from
